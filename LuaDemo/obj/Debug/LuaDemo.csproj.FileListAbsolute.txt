@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\LuaDemo.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\LuaDemo.exe
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\LuaDemo.pdb
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\KeraLua.dll
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\NLua.dll
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Debug\KeraLua.pdb
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\obj\Debug\LuaDemo.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\obj\Debug\LuaDemo.exe
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\obj\Debug\LuaDemo.pdb

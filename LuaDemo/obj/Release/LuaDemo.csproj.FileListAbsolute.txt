@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\LuaDemo.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\LuaDemo.exe
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\LuaDemo.pdb
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\KeraLua.dll
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\NLua.dll
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\bin\Release\KeraLua.pdb
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\obj\Release\LuaDemo.exe
+c:\users\user\documents\visual studio 2013\Projects\Alteil\LuaDemo\LuaDemo\obj\Release\LuaDemo.pdb
